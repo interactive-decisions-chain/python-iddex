@@ -34,13 +34,13 @@ Visit the [pybitshares website](http://docs.pybitshares.com/en/latest/) for in d
 
 ### Manual installation:
 
-    $ git clone https://github.com/bitshares/python-bitshares/
-    $ cd python-bitshares
+    $ git clone https://github.com/interactive-decisions-chain/python-iddex
+    $ cd python-iddex
     $ python3 setup.py install --user
 
 ### Upgrade
 
-    $ pip3 install --user --upgrade bitshares
+    $ pip3 install --user --upgrade iddex
 
 ## Contributing
 
